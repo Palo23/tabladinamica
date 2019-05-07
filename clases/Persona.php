@@ -70,7 +70,7 @@ class Persona
 
     public function guardar($conexion) {
         if ($this->id) /* Modifica */ {
-            $consulta = $conexion->prepare('UPDATE ' . self::TABLA . ' SET nombre = :nombre, apellido = :aṕellido,
+            $consulta = $conexion->prepare('UPDATE ' . self::TABLA . ' SET nombre = :nombre, apellido = :apellido,
              email = :email, telefono = :telefono WHERE id = :id');
             $consulta->bindParam(':nombre', $this->nombre);
             $consulta->bindParam(':apellido', $this->apellido);

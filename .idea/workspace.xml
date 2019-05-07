@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da765f4e-32a9-43c4-9cd0-edb2771a4c9d" name="Default Changelist" comment="" />
+    <list default="true" id="da765f4e-32a9-43c4-9cd0-edb2771a4c9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clases/crearSesion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/dist/js/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/banner.end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/banner.start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/jquery.mousewheel.shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/jquery.select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/jquery.shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/compat/containerCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/compat/dropdownCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/compat/initSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/compat/inputData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/compat/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/data/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/data/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/data/maximumSelectionLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/data/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/data/tags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/diacritics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/attachContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/hidePlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/infiniteScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/minimumResultsForSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/dropdown/selectOnClose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/results.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/allowClear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/clickMask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/eventRelay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/selection/stopPropagation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/translation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/js/select2/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/theme/classic/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/theme/default/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librerias/select2/src/scss/theme/default/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vistas/buscador.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clases/Persona.php" beforeDir="false" afterPath="$PROJECT_DIR$/clases/Persona.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clases/eliminarRegistro.php" beforeDir="false" afterPath="$PROJECT_DIR$/clases/eliminarRegistro.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vistas/tabla.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/tabla.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -25,8 +151,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistas/tabla.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            <state relative-caret-position="1995">
+              <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/buscador.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clases/crearSesion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -34,8 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/funciones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -49,20 +193,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clases/eliminarRegistro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clases/agregarDatos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="210">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -76,16 +220,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clases/Persona.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,14 +236,16 @@
         <option value="$PROJECT_DIR$/clases/Conectar.php" />
         <option value="$PROJECT_DIR$/vistas/modales.php" />
         <option value="$PROJECT_DIR$/vistas/mostrarIn.php" />
-        <option value="$PROJECT_DIR$/clases/agregarDatos.php" />
         <option value="$PROJECT_DIR$/clases/Conexion.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/vistas/tabla.php" />
         <option value="$PROJECT_DIR$/clases/actualizarDatos.php" />
-        <option value="$PROJECT_DIR$/clases/Persona.php" />
-        <option value="$PROJECT_DIR$/js/funciones.js" />
         <option value="$PROJECT_DIR$/clases/eliminarRegistro.php" />
+        <option value="$PROJECT_DIR$/clases/Persona.php" />
+        <option value="$PROJECT_DIR$/vistas/buscador.php" />
+        <option value="$PROJECT_DIR$/clases/crearSesion.php" />
+        <option value="$PROJECT_DIR$/vistas/tabla.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/funciones.js" />
+        <option value="$PROJECT_DIR$/clases/agregarDatos.php" />
       </list>
     </option>
   </component>
@@ -120,6 +260,7 @@
     <option name="width" value="1346" />
     <option name="height" value="700" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,13 +296,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PDO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/librerias" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/librerias" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vistas" />
       <recent name="$PROJECT_DIR$/clases" />
@@ -204,16 +349,20 @@
       <workItem from="1556417570437" duration="7241000" />
       <workItem from="1556482975980" duration="54000" />
       <workItem from="1556510071073" duration="989000" />
+      <workItem from="1556769913007" duration="645000" />
+      <workItem from="1556854011924" duration="6018000" />
+      <workItem from="1556924006279" duration="1733000" />
+      <workItem from="1557110733525" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58799000" />
+    <option name="totallyTimeSpent" value="67247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1368" height="742" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33333334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,6 +407,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CRUD completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD completo" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DB/DB.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,10 +435,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modales.php" />
     <entry file="file://$PROJECT_DIR$/vistas/mostrarIn.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/tabla.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/librerias/select2/src/js/select2/data/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/Persona.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="82" selection-start-line="82" selection-end-line="82" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/tabla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/buscador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/crearSesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/funciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/actualizarDatos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/eliminarRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -296,48 +511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tabla.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/actualizarDatos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clases/agregarDatos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/Persona.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/tabla.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/funciones.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/eliminarRegistro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>

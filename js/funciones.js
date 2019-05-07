@@ -9,8 +9,8 @@ function agregar(nombre,apellido,email,telefono){
         url:"clases/agregarDatos.php",
         data:cadena,
         success:function(r){
+            setTimeout(_=>window.location.replace('index.php'), 500);
             if(r==true){
-                setTimeout(_=>window.location.replace('index.php'), 500);
                 alertify.success("Agregado con éxito");
             }else{
                 alertify.error("Ha ocurrido un error");
@@ -40,12 +40,13 @@ function actualizar(id, nombre, apellido, email, telefono){
         url:"clases/actualizarDatos.php",
         data:cadena,
         success:function(r){
+            setTimeout(_=>window.location.replace('index.php'), 500);
             if(r==true){
                 alertify.success("Se ha actualizado corectamente");
             }else{
                 alertify.error("Ha ocurrido un error");
             }
-            setTimeout(_=>window.location.replace('index.php'), 200);
+
         }
     });
 
@@ -66,12 +67,13 @@ function eliminar(id){
         url:"clases/eliminarRegistro.php",
         data:cadena,
         success:function (r) {
+            setTimeout(_=>window.location.replace('index.php'), 500);
             if (r==true){
                 alertify.success("Eliminado con éxito");
             }else {
                 alertify.error("No se pudo eliminar");
             }
-            setTimeout(_=>window.location.replace('index.php'), 200);
+
         }
 
     });

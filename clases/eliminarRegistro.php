@@ -1,5 +1,7 @@
 <?php
 
+require_once 'Persona.php';
+
 $id= $_POST['id'];
 
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
